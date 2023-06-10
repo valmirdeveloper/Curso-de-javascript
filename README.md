@@ -1,2 +1,2 @@
-# Curso de javascript Matheus fraga
+# Curso de javascript 
  Curso online feito pela Udemy
